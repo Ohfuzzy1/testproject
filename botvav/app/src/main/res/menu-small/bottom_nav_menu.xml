@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="MissingDefaultResource">
+
+    <item
+        android:id="@+id/action_recents"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_btn_speak_now"
+        android:title="Recents"
+        app:showAsAction="ifRoom" />
+
+    <item
+    android:id="@+id/action_favorites"
+    android:enabled="true"
+        android:icon="@android:drawable/ic_menu_recent_history"
+    android:title="Favorites"
+    app:showAsAction="ifRoom" />
+
+    <item
+    android:id="@+id/action_nearby"
+    android:enabled="true"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="Nearby"
+    app:showAsAction="ifRoom" />
+
+
+</menu>
