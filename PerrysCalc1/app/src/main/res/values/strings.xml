@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Perrys Calc1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="edit_message">Perry\'s message  zone</string>
+    <string name="button_send">Send</string>
+    <string name="operand1">First Number</string>
+    <string name="operand2">Second Number</string>
+    <string name="first_number">first number</string>
+    <string name="second_number">second number</string>
+    <string name="results">Results =</string>
+
+    <!--        <string name="operator">"Use: + - * /"</string>-->
+
+    <string-array name="operator">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>-:-</item>
+    </string-array>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
